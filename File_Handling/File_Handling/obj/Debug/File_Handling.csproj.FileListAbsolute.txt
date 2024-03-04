@@ -1,0 +1,7 @@
+C:\Users\SEZ-B11\source\repos\File_Handling\File_Handling\bin\Debug\File_Handling.exe.config
+C:\Users\SEZ-B11\source\repos\File_Handling\File_Handling\bin\Debug\File_Handling.exe
+C:\Users\SEZ-B11\source\repos\File_Handling\File_Handling\bin\Debug\File_Handling.pdb
+C:\Users\SEZ-B11\source\repos\File_Handling\File_Handling\obj\Debug\File_Handling.csprojAssemblyReference.cache
+C:\Users\SEZ-B11\source\repos\File_Handling\File_Handling\obj\Debug\File_Handling.csproj.CoreCompileInputs.cache
+C:\Users\SEZ-B11\source\repos\File_Handling\File_Handling\obj\Debug\File_Handling.exe
+C:\Users\SEZ-B11\source\repos\File_Handling\File_Handling\obj\Debug\File_Handling.pdb

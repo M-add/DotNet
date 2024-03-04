@@ -1,0 +1,6 @@
+C:\Users\SEZ-B11\source\repos\Training\LucidLibrary\bin\Debug\LucidLibrary.pdb
+C:\Users\SEZ-B11\source\repos\Training\LucidLibrary\obj\Debug\LucidLibrary.csprojAssemblyReference.cache
+C:\Users\SEZ-B11\source\repos\Training\LucidLibrary\obj\Debug\LucidLibrary.csproj.CoreCompileInputs.cache
+C:\Users\SEZ-B11\source\repos\Training\LucidLibrary\obj\Debug\LucidLibrary.pdb
+C:\Users\SEZ-B11\source\repos\Training\LucidLibrary\bin\Debug\LucidLibrary.exe
+C:\Users\SEZ-B11\source\repos\Training\LucidLibrary\obj\Debug\LucidLibrary.exe

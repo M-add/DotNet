@@ -1,0 +1,10 @@
+C:\Users\SEZ-B11\source\repos\DelegateWinForms\DelegateWinForms\bin\Debug\DelegateWinForms.exe.config
+C:\Users\SEZ-B11\source\repos\DelegateWinForms\DelegateWinForms\bin\Debug\DelegateWinForms.exe
+C:\Users\SEZ-B11\source\repos\DelegateWinForms\DelegateWinForms\bin\Debug\DelegateWinForms.pdb
+C:\Users\SEZ-B11\source\repos\DelegateWinForms\DelegateWinForms\obj\Debug\DelegateWinForms.csprojAssemblyReference.cache
+C:\Users\SEZ-B11\source\repos\DelegateWinForms\DelegateWinForms\obj\Debug\DelegateWinForms.Form1.resources
+C:\Users\SEZ-B11\source\repos\DelegateWinForms\DelegateWinForms\obj\Debug\DelegateWinForms.Properties.Resources.resources
+C:\Users\SEZ-B11\source\repos\DelegateWinForms\DelegateWinForms\obj\Debug\DelegateWinForms.csproj.GenerateResource.cache
+C:\Users\SEZ-B11\source\repos\DelegateWinForms\DelegateWinForms\obj\Debug\DelegateWinForms.csproj.CoreCompileInputs.cache
+C:\Users\SEZ-B11\source\repos\DelegateWinForms\DelegateWinForms\obj\Debug\DelegateWinForms.exe
+C:\Users\SEZ-B11\source\repos\DelegateWinForms\DelegateWinForms\obj\Debug\DelegateWinForms.pdb

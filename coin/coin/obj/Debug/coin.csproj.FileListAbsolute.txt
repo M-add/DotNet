@@ -1,0 +1,7 @@
+C:\Users\SEZ-B11\source\repos\coin\coin\obj\Debug\coin.csprojAssemblyReference.cache
+C:\Users\SEZ-B11\source\repos\coin\coin\obj\Debug\coin.csproj.CoreCompileInputs.cache
+C:\Users\SEZ-B11\source\repos\coin\coin\bin\Debug\coin.exe.config
+C:\Users\SEZ-B11\source\repos\coin\coin\bin\Debug\coin.exe
+C:\Users\SEZ-B11\source\repos\coin\coin\bin\Debug\coin.pdb
+C:\Users\SEZ-B11\source\repos\coin\coin\obj\Debug\coin.exe
+C:\Users\SEZ-B11\source\repos\coin\coin\obj\Debug\coin.pdb

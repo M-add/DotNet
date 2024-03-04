@@ -1,0 +1,7 @@
+C:\Users\SEZ-B11\source\repos\Evalution2\Evalution2\bin\Debug\Evalution2.exe.config
+C:\Users\SEZ-B11\source\repos\Evalution2\Evalution2\bin\Debug\Evalution2.exe
+C:\Users\SEZ-B11\source\repos\Evalution2\Evalution2\bin\Debug\Evalution2.pdb
+C:\Users\SEZ-B11\source\repos\Evalution2\Evalution2\obj\Debug\Evalution2.csprojAssemblyReference.cache
+C:\Users\SEZ-B11\source\repos\Evalution2\Evalution2\obj\Debug\Evalution2.csproj.CoreCompileInputs.cache
+C:\Users\SEZ-B11\source\repos\Evalution2\Evalution2\obj\Debug\Evalution2.exe
+C:\Users\SEZ-B11\source\repos\Evalution2\Evalution2\obj\Debug\Evalution2.pdb

@@ -1,0 +1,7 @@
+C:\Users\SEZ-B11\source\repos\merge_intervals\merge_intervals\bin\Debug\merge_intervals.exe.config
+C:\Users\SEZ-B11\source\repos\merge_intervals\merge_intervals\bin\Debug\merge_intervals.exe
+C:\Users\SEZ-B11\source\repos\merge_intervals\merge_intervals\bin\Debug\merge_intervals.pdb
+C:\Users\SEZ-B11\source\repos\merge_intervals\merge_intervals\obj\Debug\merge_intervals.csprojAssemblyReference.cache
+C:\Users\SEZ-B11\source\repos\merge_intervals\merge_intervals\obj\Debug\merge_intervals.csproj.CoreCompileInputs.cache
+C:\Users\SEZ-B11\source\repos\merge_intervals\merge_intervals\obj\Debug\merge_intervals.exe
+C:\Users\SEZ-B11\source\repos\merge_intervals\merge_intervals\obj\Debug\merge_intervals.pdb

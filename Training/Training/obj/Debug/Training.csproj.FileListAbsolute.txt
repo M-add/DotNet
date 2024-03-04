@@ -1,0 +1,7 @@
+c:\users\sez-b11\source\repos\Training\Training\bin\Debug\Training.exe.config
+c:\users\sez-b11\source\repos\Training\Training\bin\Debug\Training.exe
+c:\users\sez-b11\source\repos\Training\Training\bin\Debug\Training.pdb
+c:\users\sez-b11\source\repos\Training\Training\obj\Debug\Training.csprojAssemblyReference.cache
+c:\users\sez-b11\source\repos\Training\Training\obj\Debug\Training.csproj.CoreCompileInputs.cache
+c:\users\sez-b11\source\repos\Training\Training\obj\Debug\Training.exe
+c:\users\sez-b11\source\repos\Training\Training\obj\Debug\Training.pdb

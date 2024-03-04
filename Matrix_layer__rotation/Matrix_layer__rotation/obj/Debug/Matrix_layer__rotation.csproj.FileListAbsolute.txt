@@ -1,0 +1,7 @@
+C:\Users\SEZ-B11\source\repos\Matrix_layer__rotation\Matrix_layer__rotation\bin\Debug\Matrix_layer__rotation.exe.config
+C:\Users\SEZ-B11\source\repos\Matrix_layer__rotation\Matrix_layer__rotation\bin\Debug\Matrix_layer__rotation.exe
+C:\Users\SEZ-B11\source\repos\Matrix_layer__rotation\Matrix_layer__rotation\bin\Debug\Matrix_layer__rotation.pdb
+C:\Users\SEZ-B11\source\repos\Matrix_layer__rotation\Matrix_layer__rotation\obj\Debug\Matrix_layer__rotation.csprojAssemblyReference.cache
+C:\Users\SEZ-B11\source\repos\Matrix_layer__rotation\Matrix_layer__rotation\obj\Debug\Matrix_layer__rotation.csproj.CoreCompileInputs.cache
+C:\Users\SEZ-B11\source\repos\Matrix_layer__rotation\Matrix_layer__rotation\obj\Debug\Matrix_layer__rotation.exe
+C:\Users\SEZ-B11\source\repos\Matrix_layer__rotation\Matrix_layer__rotation\obj\Debug\Matrix_layer__rotation.pdb

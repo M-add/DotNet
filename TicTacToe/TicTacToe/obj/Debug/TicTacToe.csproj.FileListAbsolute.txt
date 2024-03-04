@@ -1,0 +1,12 @@
+c:\users\sez-b11\source\repos\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe.config
+c:\users\sez-b11\source\repos\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe
+c:\users\sez-b11\source\repos\TicTacToe\TicTacToe\bin\Debug\TicTacToe.pdb
+c:\users\sez-b11\source\repos\TicTacToe\TicTacToe\obj\Debug\TicTacToe.Form1.resources
+c:\users\sez-b11\source\repos\TicTacToe\TicTacToe\obj\Debug\TicTacToe.Properties.Resources.resources
+c:\users\sez-b11\source\repos\TicTacToe\TicTacToe\obj\Debug\TicTacToe.XO.resources
+c:\users\sez-b11\source\repos\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.GenerateResource.cache
+c:\users\sez-b11\source\repos\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.CoreCompileInputs.cache
+c:\users\sez-b11\source\repos\TicTacToe\TicTacToe\obj\Debug\TicTacToe.exe
+c:\users\sez-b11\source\repos\TicTacToe\TicTacToe\obj\Debug\TicTacToe.pdb
+c:\users\sez-b11\source\repos\TicTacToe\TicTacToe\obj\Debug\TicTacToe.Form2.resources
+c:\users\sez-b11\source\repos\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csprojAssemblyReference.cache

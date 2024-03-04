@@ -1,0 +1,36 @@
+C:\Users\SEZ-B11\source\repos\Drawing Manager\Drawing MAnager\bin\Debug\Drawing MAnager.exe.config
+C:\Users\SEZ-B11\source\repos\Drawing Manager\Drawing MAnager\bin\Debug\Drawing MAnager.exe
+C:\Users\SEZ-B11\source\repos\Drawing Manager\Drawing MAnager\bin\Debug\Drawing MAnager.pdb
+C:\Users\SEZ-B11\source\repos\Drawing Manager\Drawing MAnager\bin\Debug\ExCSS.dll
+C:\Users\SEZ-B11\source\repos\Drawing Manager\Drawing MAnager\bin\Debug\HarfBuzzSharp.dll
+C:\Users\SEZ-B11\source\repos\Drawing Manager\Drawing MAnager\bin\Debug\ShimSkiaSharp.dll
+C:\Users\SEZ-B11\source\repos\Drawing Manager\Drawing MAnager\bin\Debug\SkiaSharp.dll
+C:\Users\SEZ-B11\source\repos\Drawing Manager\Drawing MAnager\bin\Debug\SkiaSharp.HarfBuzz.dll
+C:\Users\SEZ-B11\source\repos\Drawing Manager\Drawing MAnager\bin\Debug\Svg.dll
+C:\Users\SEZ-B11\source\repos\Drawing Manager\Drawing MAnager\bin\Debug\System.Buffers.dll
+C:\Users\SEZ-B11\source\repos\Drawing Manager\Drawing MAnager\bin\Debug\System.Drawing.Common.dll
+C:\Users\SEZ-B11\source\repos\Drawing Manager\Drawing MAnager\bin\Debug\System.Memory.dll
+C:\Users\SEZ-B11\source\repos\Drawing Manager\Drawing MAnager\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\SEZ-B11\source\repos\Drawing Manager\Drawing MAnager\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\SEZ-B11\source\repos\Drawing Manager\Drawing MAnager\bin\Debug\HarfBuzzSharp.pdb
+C:\Users\SEZ-B11\source\repos\Drawing Manager\Drawing MAnager\bin\Debug\HarfBuzzSharp.xml
+C:\Users\SEZ-B11\source\repos\Drawing Manager\Drawing MAnager\bin\Debug\SkiaSharp.pdb
+C:\Users\SEZ-B11\source\repos\Drawing Manager\Drawing MAnager\bin\Debug\SkiaSharp.xml
+C:\Users\SEZ-B11\source\repos\Drawing Manager\Drawing MAnager\bin\Debug\SkiaSharp.HarfBuzz.pdb
+C:\Users\SEZ-B11\source\repos\Drawing Manager\Drawing MAnager\bin\Debug\SkiaSharp.HarfBuzz.xml
+C:\Users\SEZ-B11\source\repos\Drawing Manager\Drawing MAnager\bin\Debug\Svg.xml
+C:\Users\SEZ-B11\source\repos\Drawing Manager\Drawing MAnager\bin\Debug\System.Buffers.xml
+C:\Users\SEZ-B11\source\repos\Drawing Manager\Drawing MAnager\bin\Debug\System.Memory.xml
+C:\Users\SEZ-B11\source\repos\Drawing Manager\Drawing MAnager\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\SEZ-B11\source\repos\Drawing Manager\Drawing MAnager\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\SEZ-B11\source\repos\Drawing Manager\Drawing MAnager\obj\Debug\Drawing_MAnager.DiscordVoiceNote.resources
+C:\Users\SEZ-B11\source\repos\Drawing Manager\Drawing MAnager\obj\Debug\Drawing_MAnager.Form1.resources
+C:\Users\SEZ-B11\source\repos\Drawing Manager\Drawing MAnager\obj\Debug\Drawing_MAnager.Properties.Resources.resources
+C:\Users\SEZ-B11\source\repos\Drawing Manager\Drawing MAnager\obj\Debug\Drawing_MAnager.Scale.resources
+C:\Users\SEZ-B11\source\repos\Drawing Manager\Drawing MAnager\obj\Debug\Drawing_MAnager.Svg_Box.resources
+C:\Users\SEZ-B11\source\repos\Drawing Manager\Drawing MAnager\obj\Debug\Drawing Manager.csproj.GenerateResource.cache
+C:\Users\SEZ-B11\source\repos\Drawing Manager\Drawing MAnager\obj\Debug\Drawing Manager.csproj.CoreCompileInputs.cache
+C:\Users\SEZ-B11\source\repos\Drawing Manager\Drawing MAnager\obj\Debug\Drawing Manager.csproj.CopyComplete
+C:\Users\SEZ-B11\source\repos\Drawing Manager\Drawing MAnager\obj\Debug\Drawing MAnager.exe
+C:\Users\SEZ-B11\source\repos\Drawing Manager\Drawing MAnager\obj\Debug\Drawing MAnager.pdb
+C:\Users\SEZ-B11\source\repos\Drawing Manager\Drawing MAnager\obj\Debug\Drawing Manager.csprojAssemblyReference.cache

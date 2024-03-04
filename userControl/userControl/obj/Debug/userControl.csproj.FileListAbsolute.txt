@@ -1,0 +1,12 @@
+C:\Users\SEZ-B11\source\repos\userControl\userControl\bin\Debug\userControl.exe.config
+C:\Users\SEZ-B11\source\repos\userControl\userControl\bin\Debug\userControl.exe
+C:\Users\SEZ-B11\source\repos\userControl\userControl\bin\Debug\userControl.pdb
+C:\Users\SEZ-B11\source\repos\userControl\userControl\obj\Debug\userControl.Form1.resources
+C:\Users\SEZ-B11\source\repos\userControl\userControl\obj\Debug\userControl.Properties.Resources.resources
+C:\Users\SEZ-B11\source\repos\userControl\userControl\obj\Debug\userControl.UserControl1.resources
+C:\Users\SEZ-B11\source\repos\userControl\userControl\obj\Debug\userControl.csproj.GenerateResource.cache
+C:\Users\SEZ-B11\source\repos\userControl\userControl\obj\Debug\userControl.csproj.CoreCompileInputs.cache
+C:\Users\SEZ-B11\source\repos\userControl\userControl\obj\Debug\userControl.exe
+C:\Users\SEZ-B11\source\repos\userControl\userControl\obj\Debug\userControl.pdb
+C:\Users\SEZ-B11\source\repos\userControl\userControl\obj\Debug\userControl.SlideBar.resources
+C:\Users\SEZ-B11\source\repos\userControl\userControl\obj\Debug\userControl.csprojAssemblyReference.cache

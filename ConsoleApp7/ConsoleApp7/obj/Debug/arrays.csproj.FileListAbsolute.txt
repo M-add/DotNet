@@ -1,0 +1,7 @@
+C:\Users\SEZ-B11\source\repos\ConsoleApp7\ConsoleApp7\bin\Debug\ConsoleApp7.exe.config
+C:\Users\SEZ-B11\source\repos\ConsoleApp7\ConsoleApp7\bin\Debug\ConsoleApp7.exe
+C:\Users\SEZ-B11\source\repos\ConsoleApp7\ConsoleApp7\bin\Debug\ConsoleApp7.pdb
+C:\Users\SEZ-B11\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\arrays.csprojAssemblyReference.cache
+C:\Users\SEZ-B11\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\arrays.csproj.CoreCompileInputs.cache
+C:\Users\SEZ-B11\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\ConsoleApp7.exe
+C:\Users\SEZ-B11\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\ConsoleApp7.pdb

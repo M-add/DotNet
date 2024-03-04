@@ -1,0 +1,7 @@
+C:\Users\SEZ-B11\source\repos\project_1\project_1\bin\Debug\project_1.exe.config
+C:\Users\SEZ-B11\source\repos\project_1\project_1\bin\Debug\project_1.exe
+C:\Users\SEZ-B11\source\repos\project_1\project_1\bin\Debug\project_1.pdb
+C:\Users\SEZ-B11\source\repos\project_1\project_1\obj\Debug\project_1.csprojAssemblyReference.cache
+C:\Users\SEZ-B11\source\repos\project_1\project_1\obj\Debug\project_1.csproj.CoreCompileInputs.cache
+C:\Users\SEZ-B11\source\repos\project_1\project_1\obj\Debug\project_1.exe
+C:\Users\SEZ-B11\source\repos\project_1\project_1\obj\Debug\project_1.pdb

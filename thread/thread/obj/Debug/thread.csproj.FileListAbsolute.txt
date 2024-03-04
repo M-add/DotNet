@@ -1,0 +1,7 @@
+c:\users\sez-b11\source\repos\thread\thread\bin\Debug\thread.exe.config
+c:\users\sez-b11\source\repos\thread\thread\bin\Debug\thread.exe
+c:\users\sez-b11\source\repos\thread\thread\bin\Debug\thread.pdb
+c:\users\sez-b11\source\repos\thread\thread\obj\Debug\thread.csprojAssemblyReference.cache
+c:\users\sez-b11\source\repos\thread\thread\obj\Debug\thread.csproj.CoreCompileInputs.cache
+c:\users\sez-b11\source\repos\thread\thread\obj\Debug\thread.exe
+c:\users\sez-b11\source\repos\thread\thread\obj\Debug\thread.pdb

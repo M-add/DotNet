@@ -1,0 +1,7 @@
+C:\Users\SEZ-B11\source\repos\Knight on chess board\Knight on chess board\obj\Debug\Knight on chess board.csprojAssemblyReference.cache
+C:\Users\SEZ-B11\source\repos\Knight on chess board\Knight on chess board\obj\Debug\Knight on chess board.csproj.CoreCompileInputs.cache
+C:\Users\SEZ-B11\source\repos\Knight on chess board\Knight on chess board\bin\Debug\Knight on chess board.exe.config
+C:\Users\SEZ-B11\source\repos\Knight on chess board\Knight on chess board\bin\Debug\Knight on chess board.exe
+C:\Users\SEZ-B11\source\repos\Knight on chess board\Knight on chess board\bin\Debug\Knight on chess board.pdb
+C:\Users\SEZ-B11\source\repos\Knight on chess board\Knight on chess board\obj\Debug\Knight on chess board.exe
+C:\Users\SEZ-B11\source\repos\Knight on chess board\Knight on chess board\obj\Debug\Knight on chess board.pdb

@@ -1,0 +1,7 @@
+C:\Users\SEZ-B11\source\repos\path\path\bin\Debug\path.exe.config
+C:\Users\SEZ-B11\source\repos\path\path\bin\Debug\path.exe
+C:\Users\SEZ-B11\source\repos\path\path\bin\Debug\path.pdb
+C:\Users\SEZ-B11\source\repos\path\path\obj\Debug\path.csprojAssemblyReference.cache
+C:\Users\SEZ-B11\source\repos\path\path\obj\Debug\path.csproj.CoreCompileInputs.cache
+C:\Users\SEZ-B11\source\repos\path\path\obj\Debug\path.exe
+C:\Users\SEZ-B11\source\repos\path\path\obj\Debug\path.pdb

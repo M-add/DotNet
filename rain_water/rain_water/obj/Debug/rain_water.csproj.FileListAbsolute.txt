@@ -1,0 +1,7 @@
+C:\Users\SEZ-B11\source\repos\rain_water\rain_water\bin\Debug\rain_water.exe.config
+C:\Users\SEZ-B11\source\repos\rain_water\rain_water\bin\Debug\rain_water.exe
+C:\Users\SEZ-B11\source\repos\rain_water\rain_water\bin\Debug\rain_water.pdb
+C:\Users\SEZ-B11\source\repos\rain_water\rain_water\obj\Debug\rain_water.csprojAssemblyReference.cache
+C:\Users\SEZ-B11\source\repos\rain_water\rain_water\obj\Debug\rain_water.csproj.CoreCompileInputs.cache
+C:\Users\SEZ-B11\source\repos\rain_water\rain_water\obj\Debug\rain_water.exe
+C:\Users\SEZ-B11\source\repos\rain_water\rain_water\obj\Debug\rain_water.pdb

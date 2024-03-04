@@ -1,0 +1,10 @@
+C:\Users\SEZ-B11\source\repos\Calxulator1\Calxulator1\bin\Debug\Calxulator1.exe.config
+C:\Users\SEZ-B11\source\repos\Calxulator1\Calxulator1\bin\Debug\Calxulator1.exe
+C:\Users\SEZ-B11\source\repos\Calxulator1\Calxulator1\bin\Debug\Calxulator1.pdb
+C:\Users\SEZ-B11\source\repos\Calxulator1\Calxulator1\obj\Debug\Calxulator1.csprojAssemblyReference.cache
+C:\Users\SEZ-B11\source\repos\Calxulator1\Calxulator1\obj\Debug\Calxulator1.Form1.resources
+C:\Users\SEZ-B11\source\repos\Calxulator1\Calxulator1\obj\Debug\Calxulator1.Properties.Resources.resources
+C:\Users\SEZ-B11\source\repos\Calxulator1\Calxulator1\obj\Debug\Calxulator1.csproj.GenerateResource.cache
+C:\Users\SEZ-B11\source\repos\Calxulator1\Calxulator1\obj\Debug\Calxulator1.csproj.CoreCompileInputs.cache
+C:\Users\SEZ-B11\source\repos\Calxulator1\Calxulator1\obj\Debug\Calxulator1.exe
+C:\Users\SEZ-B11\source\repos\Calxulator1\Calxulator1\obj\Debug\Calxulator1.pdb

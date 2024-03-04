@@ -1,0 +1,7 @@
+C:\Users\SEZ-B11\source\repos\Longest_subsequence\Longest_subsequence\obj\Debug\Longest_subsequence.csprojAssemblyReference.cache
+C:\Users\SEZ-B11\source\repos\Longest_subsequence\Longest_subsequence\obj\Debug\Longest_subsequence.csproj.CoreCompileInputs.cache
+C:\Users\SEZ-B11\source\repos\Longest_subsequence\Longest_subsequence\bin\Debug\Longest_subsequence.exe.config
+C:\Users\SEZ-B11\source\repos\Longest_subsequence\Longest_subsequence\bin\Debug\Longest_subsequence.exe
+C:\Users\SEZ-B11\source\repos\Longest_subsequence\Longest_subsequence\bin\Debug\Longest_subsequence.pdb
+C:\Users\SEZ-B11\source\repos\Longest_subsequence\Longest_subsequence\obj\Debug\Longest_subsequence.exe
+C:\Users\SEZ-B11\source\repos\Longest_subsequence\Longest_subsequence\obj\Debug\Longest_subsequence.pdb

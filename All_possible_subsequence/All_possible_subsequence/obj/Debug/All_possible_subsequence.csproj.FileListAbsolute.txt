@@ -1,0 +1,7 @@
+c:\users\sez-b11\source\repos\All_possible_subsequence\All_possible_subsequence\bin\Debug\All_possible_subsequence.exe.config
+c:\users\sez-b11\source\repos\All_possible_subsequence\All_possible_subsequence\bin\Debug\All_possible_subsequence.exe
+c:\users\sez-b11\source\repos\All_possible_subsequence\All_possible_subsequence\bin\Debug\All_possible_subsequence.pdb
+c:\users\sez-b11\source\repos\All_possible_subsequence\All_possible_subsequence\obj\Debug\All_possible_subsequence.csprojAssemblyReference.cache
+c:\users\sez-b11\source\repos\All_possible_subsequence\All_possible_subsequence\obj\Debug\All_possible_subsequence.csproj.CoreCompileInputs.cache
+c:\users\sez-b11\source\repos\All_possible_subsequence\All_possible_subsequence\obj\Debug\All_possible_subsequence.exe
+c:\users\sez-b11\source\repos\All_possible_subsequence\All_possible_subsequence\obj\Debug\All_possible_subsequence.pdb

@@ -1,0 +1,7 @@
+C:\Users\SEZ-B11\source\repos\problem1\problem1\bin\Debug\problem1.exe.config
+C:\Users\SEZ-B11\source\repos\problem1\problem1\bin\Debug\problem1.exe
+C:\Users\SEZ-B11\source\repos\problem1\problem1\bin\Debug\problem1.pdb
+C:\Users\SEZ-B11\source\repos\problem1\problem1\obj\Debug\problem1.csprojAssemblyReference.cache
+C:\Users\SEZ-B11\source\repos\problem1\problem1\obj\Debug\problem1.csproj.CoreCompileInputs.cache
+C:\Users\SEZ-B11\source\repos\problem1\problem1\obj\Debug\problem1.exe
+C:\Users\SEZ-B11\source\repos\problem1\problem1\obj\Debug\problem1.pdb

@@ -1,0 +1,7 @@
+C:\Users\SEZ-B11\source\repos\tree\tree\bin\Debug\tree.exe.config
+C:\Users\SEZ-B11\source\repos\tree\tree\bin\Debug\tree.exe
+C:\Users\SEZ-B11\source\repos\tree\tree\bin\Debug\tree.pdb
+C:\Users\SEZ-B11\source\repos\tree\tree\obj\Debug\tree.csprojAssemblyReference.cache
+C:\Users\SEZ-B11\source\repos\tree\tree\obj\Debug\tree.csproj.CoreCompileInputs.cache
+C:\Users\SEZ-B11\source\repos\tree\tree\obj\Debug\tree.exe
+C:\Users\SEZ-B11\source\repos\tree\tree\obj\Debug\tree.pdb

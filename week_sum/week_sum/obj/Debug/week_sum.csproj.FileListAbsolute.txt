@@ -1,0 +1,7 @@
+C:\Users\SEZ-B11\source\repos\week_sum\week_sum\bin\Debug\week_sum.exe.config
+C:\Users\SEZ-B11\source\repos\week_sum\week_sum\bin\Debug\week_sum.exe
+C:\Users\SEZ-B11\source\repos\week_sum\week_sum\bin\Debug\week_sum.pdb
+C:\Users\SEZ-B11\source\repos\week_sum\week_sum\obj\Debug\week_sum.csprojAssemblyReference.cache
+C:\Users\SEZ-B11\source\repos\week_sum\week_sum\obj\Debug\week_sum.csproj.CoreCompileInputs.cache
+C:\Users\SEZ-B11\source\repos\week_sum\week_sum\obj\Debug\week_sum.exe
+C:\Users\SEZ-B11\source\repos\week_sum\week_sum\obj\Debug\week_sum.pdb

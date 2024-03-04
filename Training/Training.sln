@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 15 for Windows Desktop
+VisualStudioVersion = 15.0.27703.2047
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Training", "Training\Training.csproj", "{8AEF7F96-FC3A-4D9B-982B-4334991DED56}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LucidLibrary", "LucidLibrary\LucidLibrary.csproj", "{2357BAE3-E7D6-44E1-A1C6-8F2DFC9CEF2B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8AEF7F96-FC3A-4D9B-982B-4334991DED56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AEF7F96-FC3A-4D9B-982B-4334991DED56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AEF7F96-FC3A-4D9B-982B-4334991DED56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AEF7F96-FC3A-4D9B-982B-4334991DED56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2357BAE3-E7D6-44E1-A1C6-8F2DFC9CEF2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2357BAE3-E7D6-44E1-A1C6-8F2DFC9CEF2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2357BAE3-E7D6-44E1-A1C6-8F2DFC9CEF2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2357BAE3-E7D6-44E1-A1C6-8F2DFC9CEF2B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3FE07274-69E8-4507-92AD-B4A9ED9AB37D}
+	EndGlobalSection
+EndGlobal

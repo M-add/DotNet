@@ -1,0 +1,10 @@
+c:\users\sez-b11\source\repos\NotePad\NotePad\bin\Debug\NotePad.exe.config
+c:\users\sez-b11\source\repos\NotePad\NotePad\bin\Debug\NotePad.exe
+c:\users\sez-b11\source\repos\NotePad\NotePad\bin\Debug\NotePad.pdb
+c:\users\sez-b11\source\repos\NotePad\NotePad\obj\Debug\NotePad.NoteForm.resources
+c:\users\sez-b11\source\repos\NotePad\NotePad\obj\Debug\NotePad.Properties.Resources.resources
+c:\users\sez-b11\source\repos\NotePad\NotePad\obj\Debug\NotePad.csproj.GenerateResource.cache
+c:\users\sez-b11\source\repos\NotePad\NotePad\obj\Debug\NotePad.csproj.CoreCompileInputs.cache
+c:\users\sez-b11\source\repos\NotePad\NotePad\obj\Debug\NotePad.exe
+c:\users\sez-b11\source\repos\NotePad\NotePad\obj\Debug\NotePad.pdb
+C:\Users\SEZ-B11\source\repos\NotePad\NotePad\obj\Debug\NotePad.csprojAssemblyReference.cache

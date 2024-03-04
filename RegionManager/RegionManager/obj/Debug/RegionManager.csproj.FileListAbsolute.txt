@@ -1,0 +1,16 @@
+C:\Users\SEZ-B11\source\repos\RegionManager\RegionManager\bin\Debug\RegionManager.exe.config
+C:\Users\SEZ-B11\source\repos\RegionManager\RegionManager\bin\Debug\RegionManager.exe
+C:\Users\SEZ-B11\source\repos\RegionManager\RegionManager\bin\Debug\RegionManager.pdb
+C:\Users\SEZ-B11\source\repos\RegionManager\RegionManager\obj\Debug\RegionManager.csprojAssemblyReference.cache
+C:\Users\SEZ-B11\source\repos\RegionManager\RegionManager\obj\Debug\RegionManager.Form1.resources
+C:\Users\SEZ-B11\source\repos\RegionManager\RegionManager\obj\Debug\RegionManager.Properties.Resources.resources
+C:\Users\SEZ-B11\source\repos\RegionManager\RegionManager\obj\Debug\RegionManager.csproj.GenerateResource.cache
+C:\Users\SEZ-B11\source\repos\RegionManager\RegionManager\obj\Debug\RegionManager.csproj.CoreCompileInputs.cache
+C:\Users\SEZ-B11\source\repos\RegionManager\RegionManager\obj\Debug\RegionManager.exe
+C:\Users\SEZ-B11\source\repos\RegionManager\RegionManager\obj\Debug\RegionManager.pdb
+C:\Users\SEZ-B11\source\repos\RegionManager\RegionManager\obj\Debug\RegionManager.CircleInput.resources
+C:\Users\SEZ-B11\source\repos\RegionManager\RegionManager\obj\Debug\RegionManager.TriangelInput.resources
+C:\Users\SEZ-B11\source\repos\RegionManager\RegionManager\obj\Debug\RegionManager.RectangleInput.resources
+C:\Users\SEZ-B11\source\repos\RegionManager\RegionManager\obj\Debug\RegionManager.Function.resources
+C:\Users\SEZ-B11\source\repos\RegionManager\RegionManager\obj\Debug\RegionManager.InputDialogForm.resources
+C:\Users\SEZ-B11\source\repos\RegionManager\RegionManager\obj\Debug\RegionManager.IdManager.resources
